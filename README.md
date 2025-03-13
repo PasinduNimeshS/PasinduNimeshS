@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pasindu Nimesh Subasingha</h1>
 <h3 align="center">Software Engineering Undergraduate | Passionate about Software Development and UI/UX Design</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## About Me
+
+I am Pasindu Nimesh Subasingha, a final-year Software Engineering undergraduate at General Sir John Kotelawala Defence University, Sri Lanka. Passionate about Software Engineering and Development, I specialize in creating efficient software solutions. Additionally, I focus on UI/UX design to build intuitive and visually engaging user interfaces.
+
+I have proficiency in programming languages such as Python, Java, and Dart, and technologies like Flutter and Firebase. I also actively contribute to leadership roles, including as the Public Visibility Standing Committee Head at the IEEE Student Branch, KDU.
+
+I am excited to apply my skills and innovation to contribute to the development of cutting-edge software solutions.
+
 <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;UI/UX+designer;Always+learning+new+things&center=true&width=500&height=50"</a> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindunimeshs&label=Profile%20views&color=0e75b6&style=flat" alt="pasindunimeshs" /> </p>
 
