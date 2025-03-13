@@ -7,7 +7,7 @@
 <p align="left">
 I am Pasindu Nimesh Subasingha, a final-year Software Engineering undergraduate at General Sir John Kotelawala Defence University, Sri Lanka. Passionate about Software Engineering and Development, I specialize in creating efficient software solutions. Additionally, I focus on UI/UX design to build intuitive and visually engaging user interfaces.
 
-I have proficiency in programming languages such as Python, Java, and Dart, and technologies like Flutter and Firebase. I also actively contribute to leadership roles, including as the Public Visibility Standing Committee Head at the IEEE Student Branch, KDU.
+I also actively contribute to leadership roles, including as the Public Visibility Standing Committee Head at the IEEE Student Branch, KDU.
 
 I am excited to apply my skills and innovation to contribute to the development of cutting-edge software solutions.
 </p>
@@ -15,6 +15,7 @@ I am excited to apply my skills and innovation to contribute to the development 
 <p align="right">
   <img src="https://media.giphy.com/media/3o6Zt8zfj3ZZ7tweFe/giphy.gif" alt="Free GIF"/>
 </p>
+
 
 
 <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;UI/UX+designer;Always+learning+new+things&center=true&width=500&height=50"</a> -->
