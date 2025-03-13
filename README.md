@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasindu Nimesh Subasingha</h1>
 <h3 align="center">Software Engineering Undergraduate | Passionate about Software Development and UI/UX Design</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;UI/UX+designer;Always+learning+new+things&center=true&width=500&height=50"</a> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindunimeshs&label=Profile%20views&color=0e75b6&style=flat" alt="pasindunimeshs" /> </p>
 
